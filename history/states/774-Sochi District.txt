@@ -1,0 +1,14 @@
+state={
+	id=774
+	name="STATE_774"
+	state_category = city
+	history={
+	        owner = GEO
+	        add_core_of = SOV
+	        }
+	provinces={
+		3698 9663 
+	}
+	manpower=72597
+	buildings_max_level_factor=1.000
+}

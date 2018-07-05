@@ -1,0 +1,17 @@
+state={
+	id=779
+	name="STATE_779"
+	state_category = town
+	history={
+	        owner = GEO
+	        add_core_of = GEO
+
+	        		set_demilitarized_zone = yes
+	        		
+	        }
+	provinces={
+		7454 
+	}
+	manpower=43100
+	buildings_max_level_factor=1.000
+}

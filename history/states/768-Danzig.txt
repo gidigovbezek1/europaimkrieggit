@@ -1,0 +1,17 @@
+state={
+	id=768
+	name="STATE_768"
+	state_category = large_city
+
+	    history={
+                owner = DNZ
+        add_core_of = GER
+        add_core_of = POL 
+
+                 } 
+	provinces={
+		362 
+	}
+	manpower=250000
+	buildings_max_level_factor=1.000
+}

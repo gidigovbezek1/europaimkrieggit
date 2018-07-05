@@ -1,0 +1,17 @@
+state={
+	id=772
+	name="STATE_772"
+	state_category = large_town
+        
+        history={
+        owner = POL
+        add_core_of = POL
+        add_core_of = GER
+        } 
+
+	provinces={
+		9327 9372 11386 
+	}
+	manpower=43100
+	buildings_max_level_factor=1.000
+}

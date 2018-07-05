@@ -1,0 +1,15 @@
+state={
+	id=773
+	name="STATE_773"
+	state_category = town
+    history={
+            owner = CRO
+            add_core_of = CRO
+            }
+            
+	provinces={
+		6650
+	}
+	manpower=41230
+	buildings_max_level_factor=1.000
+}

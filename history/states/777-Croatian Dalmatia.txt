@@ -1,0 +1,15 @@
+state={
+	id=777
+	name="STATE_777"
+	state_category = large_city
+	history={
+	        owner = CRO
+	        add_core_of = CRO
+	        } 
+	        
+	provinces={
+		591 3592 3601 11564 
+	}
+	manpower=73100
+	buildings_max_level_factor=1.000
+}

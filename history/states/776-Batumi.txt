@@ -1,0 +1,19 @@
+state={
+	id=776
+	name="STATE_776"
+	state_category = city
+	history={
+	        owner = GEO
+	        add_core_of = GEO
+	        add_claim_by = TUR
+
+	        		set_demilitarized_zone = yes
+	        		
+	        }
+	        
+	provinces={
+		3653 
+	}
+	manpower=50310
+	buildings_max_level_factor=1.000
+}

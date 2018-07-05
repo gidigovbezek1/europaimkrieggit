@@ -1,0 +1,18 @@
+state={
+	id=764
+	name="STATE_764"
+	state_category = town
+	history={
+		owner = INC
+		buildings = {
+			infrastructure = 1
+		}
+	add_core_of = TUR
+	add_core_of = GRE
+	}
+	provinces={
+		849 
+	}
+	manpower=70210
+	buildings_max_level_factor=1.000
+}

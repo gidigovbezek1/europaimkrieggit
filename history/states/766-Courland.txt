@@ -1,0 +1,17 @@
+state={
+	id=766
+	name="STATE_766"
+	state_category = city
+
+	history={
+                owner = COU
+        add_core_of = COU
+
+                 } 
+
+	provinces={
+		310 341 3255 6459 7482 9275 9340 10323 
+	}
+	manpower=312900
+	buildings_max_level_factor=1.000
+}

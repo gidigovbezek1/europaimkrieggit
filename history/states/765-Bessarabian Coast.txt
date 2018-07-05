@@ -1,0 +1,17 @@
+state={
+	id=765
+	name="STATE_765"
+	state_category = town
+	history={
+	        owner = UKR
+	        add_core_of = UKR
+	        add_core_of = ROM
+                add_core_of = SUK
+	        }
+	        
+	provinces={
+		3701 3704 3724 6727 6743 9683 
+	}
+	manpower=60800
+	buildings_max_level_factor=1.000
+}

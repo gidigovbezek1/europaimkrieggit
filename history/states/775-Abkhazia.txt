@@ -1,0 +1,14 @@
+state={
+	id=775
+	name="STATE_775"
+	state_category = large_town
+	history={
+	        owner = GEO
+	        add_core_of = GEO
+	        }
+	provinces={
+		672 11599 11617 11647 
+	}
+	manpower=311885
+	buildings_max_level_factor=1.000
+}

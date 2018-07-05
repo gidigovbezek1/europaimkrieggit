@@ -1,0 +1,25 @@
+state={
+	id=785
+	name="STATE_785"
+
+	history={
+		owner = GEO
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+		add_claim_by = ARM
+		add_core_of = GEO
+
+	        		set_demilitarized_zone = yes
+
+	}
+
+	provinces={
+		3656 6669
+	}
+	manpower=32000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

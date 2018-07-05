@@ -1,0 +1,16 @@
+state={
+	id=780
+	name="STATE_780"
+	state_category = rural
+	history={
+	        owner = UKR
+	        add_core_of = UKR
+                add_core_of = SUK
+                add_core_of = SOV
+	        }
+	provinces={
+		215 6232 6556 9554
+	}
+	manpower=73210
+	buildings_max_level_factor=1.000
+}

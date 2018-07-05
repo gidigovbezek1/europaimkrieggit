@@ -1,0 +1,135 @@
+﻿capital = 231 #Tbilisi
+
+oob = "GEO_1936"
+
+set_research_slots = 4
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_military_police = 1
+	tech_mountaineers = 1
+	motorised_infantry = 1
+	paratroopers = 1
+	gw_artillery = 1
+	gwtank = 1
+	basic_light_tank = 1  # PLACEHOLDER
+	#basic_heavy_tank = 1  # PLACEHOLDER
+	#basic_medium_tank = 1 # PLACEHOLDER
+	early_fighter = 1
+	fighter1 = 1
+	early_bomber = 1
+	strategic_bomber1 = 1
+	naval_bomber1 = 1
+	early_submarine = 1
+	basic_submarine = 1
+	early_destroyer = 1
+	early_light_cruiser = 1
+	early_heavy_cruiser = 1
+	early_battleship = 1
+	early_battlecruiser = 1
+	transport = 1
+	mass_assault = 1
+	fleet_in_being = 1
+}
+
+set_politics = {
+
+	parties = {
+		neutrality = { 
+			popularity = 40
+		}
+
+		fascism = {
+			popularity = 10
+		}
+
+		democratic = {
+			popularity = 30
+		}
+		
+		communism = {
+			popularity = 20
+		}
+	}
+	
+	ruling_party = democratic
+	last_election = "1930.11.9"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+create_country_leader = {
+	name = "Noe Ramishvili"
+	desc = ""
+	picture = "Portrait_GEO_Noe_Ramishvili.png"
+	expire = "1953.3.1"
+	ideology = liberalism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Lavrenti Beria"
+	desc = ""
+	picture = "Portrait_GEO_Lavrenti_Beria.png"
+	expire = "1953.3.1"
+	ideology = stalinism
+	traits = {
+		
+	}
+}
+
+
+create_country_leader = {
+	name = "Joachim Von Hohenzollern"
+	desc = ""
+	picture = "Portrait_GEO_Joachim_Of_Prussia.png"
+	expire = "1953.3.1"
+	ideology = centrism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "Shalva Maghlakelidze"
+	desc = ""
+	picture = "Portrait_GEO_Shalva_Maghlakelidze.dds"
+	expire = "1953.3.1"
+	ideology = nazism
+	traits = {
+		
+	}
+}
+
+
+create_corps_commander = {
+	name = "Giorgi Mazniashvili"
+	portrait_path = "gfx/leaders/GEO/Portrait_Giorgi_Mazniashvili.png"
+	traits = { trait_mountaineer trickster }
+	skill = 3
+	attack_skill = 4
+	defense_skill = 4
+	planning_skill = 3
+	logistics_skill = 2
+}
+
+
+create_corps_commander = {
+	name = "Giorgi Kvinitadze"
+	portrait_path = "gfx/leaders/GEO/Portrait_Giorgi_Kvinitadze.png"
+	traits = { }
+	skill = 5
+	attack_skill = 4
+	defense_skill = 3
+	planning_skill = 5
+	logistics_skill = 2
+}
+
+

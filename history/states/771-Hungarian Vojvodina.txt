@@ -1,0 +1,17 @@
+state={
+	id=771
+	name="STATE_771"
+	state_category = city
+
+	history={
+	    owner = HUN
+	    add_core_of = HUN
+	    add_Core_of = YUG
+	        }
+          
+	provinces={
+		619 3623 9608 
+	}
+	manpower=23000
+	buildings_max_level_factor=1.000
+}

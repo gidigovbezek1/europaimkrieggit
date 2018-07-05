@@ -1,0 +1,18 @@
+state={
+	id=778
+	name="STATE_778"
+	state_category = rural
+	history={
+	owner = ARM
+	add_core_of = GEO
+
+			set_demilitarized_zone = yes
+
+	        }
+	        
+	provinces={
+		12441 
+	}
+	manpower=31923
+	buildings_max_level_factor=1.000
+}
