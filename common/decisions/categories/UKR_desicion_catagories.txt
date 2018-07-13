@@ -1,0 +1,6 @@
+UKR_border_conflict = {
+	
+	allowed = {
+		original_tag = UKR
+	}
+}
